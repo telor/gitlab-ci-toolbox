@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM node:7-alpine
 
 ENV PATH /google-cloud-sdk/bin:$PATH
 
